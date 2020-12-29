@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=10scm153adp1_main.SchDoc
+Record=SheetSymbol|SourceDocument=10scm153adp1_main.SchDoc|Designator=IO|SchDesignator=IO|FileName=10scm153adp1_io.SchDoc|SymbolType=Normal|RawFileName=10scm153adp1_io.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=10scm153adp1_main.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=10scm153adp1_pwr.SchDoc|SymbolType=Normal|RawFileName=10scm153adp1_pwr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

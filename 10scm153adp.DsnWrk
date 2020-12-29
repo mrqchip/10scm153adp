@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\altiumlib\Schematic.LibPkg
+[Project2]
+ProjectPath=..\stm32f103cb_hm\sch\stm32f103cb_hm.PrjPcb
+[Project3]
+ProjectPath=..\wlpkt\wlpkt1\wlpkt1.PrjPcb
+[Project4]
+ProjectPath=..\..\m\altiumlib\atm.LibPkg
+[Project5]
+ProjectPath=..\WlPK\sch\v1\WlPK1.PrjPcb
+[Project6]
+ProjectPath=10scm153adp1\10scm153adp1.PrjPcb
