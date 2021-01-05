@@ -88,13 +88,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFYEYSAV
 
-[Parameter1]
-Name=Projektowal
-Value=M. Lach
+[Document4]
+DocumentPath=10scm153adp1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RPAIOJHV
 
-[Parameter2]
+[Parameter1]
 Name=NazwaModuluSkrot
 Value=10scm153adp1
+
+[Parameter2]
+Name=Projektowal
+Value=M. Lach
 
 [Configuration1]
 Name=Sources
